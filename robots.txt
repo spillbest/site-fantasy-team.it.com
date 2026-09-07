@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /referral-link
+
+Sitemap: https://fantasy-team.it.com/sitemap.xml
